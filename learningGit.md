@@ -35,3 +35,6 @@ An interactive online Git course from Pluralsight has seven levels with dozens o
 Extend your GitHub reach through integrations, or by installing GitHub Desktop and the robust Visual Studio Code text editor.
 
 Learn how to launch and grow your open source project with the Open Source Guides.
+
+
+I am adding some lines to this. Now, I'm going to commit these lines to the GitHub Repo. I'm alos going to do some typos to fix in a mineute. 
