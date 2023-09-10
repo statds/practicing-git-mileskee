@@ -41,3 +41,5 @@ I am adding some lines to this. Now, I'm going to commit these lines to the GitH
 
 
 This is the sentence I am writing to change my file on the GitHub site.
+
+Now, I'm adding this sentence and am going to commit this under my new branch.
