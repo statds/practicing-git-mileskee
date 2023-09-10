@@ -38,3 +38,6 @@ Learn how to launch and grow your open source project with the Open Source Guide
 
 
 I am adding some lines to this. Now, I'm going to commit these lines to the GitHub Repo. I'm also going to do some typos to fix in a minute. 
+
+
+This is the sentence I am writing to change my file on the GitHub site.
